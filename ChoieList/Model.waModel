@@ -1,0 +1,69 @@
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Choice": {
+				"panelColor": "#B7DDE8",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 25,
+						"Y": 20
+					}
+				}
+			},
+			"Keyword": {
+				"panelColor": "#C4BD97",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 255,
+						"Y": 20
+					}
+				}
+			},
+			"Status": {
+				"panelColor": "#B8CCE4",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 485,
+						"Y": 20
+					}
+				}
+			},
+			"City": {
+				"panelColor": "#eee",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 89,
+						"Y": 276
+					}
+				}
+			},
+			"State": {
+				"panelColor": "#C4BD97",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 384,
+						"Y": 285
+					}
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 0,
+			"lastScriptLocation": {
+				"Choice": {
+					"events": "Choice/Choice-events.js"
+				}
+			}
+		}
+	},
+	"dataClasses": []
+}
